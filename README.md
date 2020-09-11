@@ -33,6 +33,48 @@ no se que hacer primero!!!
 
 > Locura es hacer lo mismo una y otra vez esperando obtener resultados diferentes
 
+## Listas
+
+### para colocar listas existen dos formas,  
+#### desordenadas  
+puedes colocarlas con *, -, + 
+
+* Elemento de lista 1
+* Elemento de lista 2
+* Elemento de lista 3
+* Elemento de lista 4
+* Elemento de lista 5
+* Elemento de lista 6
+
+### Para listas anidadas poner cuatro espacios en blanco y el simbolo que estes útilizando (*,-,+)
+
+* Elemento de lista 1  
+    * Elemento de lista 1.1  
+    * Elemento de lista 1.2  
+* Elemento de lista 2  
+    * Elemento de lista 2.1  
+    * Elemento de lista 2.2
+    
+ #### ordenadas  
+ para ordenadas solo tienes que ponerlas con su respetivo número 1. y tambien puedes anidarlas
+ 
+ 1. Elemento de lista 1   
+    * Elemento de lista 1.1  
+    * Elemento de lista 1.2  
+2. Elemento de lista 2  
+    * Elemento de lista 2.1  
+    * Elemento de lista 2.2  
+    2.3 Elemento de lista 2.3  
+    2.4 Elemento de lista 2.4
+    
+    
+    
+    
+    
+    
+
+
+
 
 
 
