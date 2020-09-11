@@ -70,7 +70,7 @@ puedes colocarlas con *, -, +
 
 ## Código de bloque
 
-## para colocar bloques de código solo tienes que encerrarlos entre tres virgulillas ~~~ texto ~~~
+### para colocar bloques de código solo tienes que encerrarlos entre tres virgulillas ~~~ texto ~~~
 
 ~~~
 Todo el texto de codigo que quieras poner va dentro  
@@ -78,7 +78,17 @@ y puedes tener todo el que requieras
 ~~~
 
 
-    
+## Énfasis (negritas y cursivas)
+
+### Cursiva va con asterisco o con guíon bajo *cursiva* o _cursiva_
+
+*letra cursiva*  
+_letra cursiva_  
+
+### para combinar las dos solo es ponerla entre dos asteriscos o guiones bajos
+
+**cursiva y negrita**  
+__cursiva y negrita__
     
     
     
