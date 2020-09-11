@@ -102,7 +102,27 @@ ___cursiva y negrita___
 
 para solucionar incoveniente visita mi [github](github)
 
-[github](https://github.com/jucenaqui)
+[github]: https://github.com/jucenaqui
+
+### para crear links automaticos solo encierralos entre menor y mayor que <>
+
+<http://google.com>
+
+## Imágenes
+
+### para colocar imagenes procedemos de igual manera que con los enlaces solo que agregamos al principio un signo de exclamación !,  
+y el enlace sera a la ruta de la imagen
+
+![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)  
+> [tomado de](https://dillinger.io)
+
+### tambien puedes incluir links mediante referencias
+
+![nombre de la imagen][img1]
+
+[img1]: https://travis-ci.org/joemccann/dillinger.svg?branch=master
+
+
     
     
     
