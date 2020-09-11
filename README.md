@@ -80,15 +80,29 @@ y puedes tener todo el que requieras
 
 ## Énfasis (negritas y cursivas)
 
-### Cursiva va con asterisco o con guíon bajo *cursiva* o _cursiva_
+### Cursiva va con asterisco o con guíon bajo " *cursiva* o _cursiva_ "
 
 *letra cursiva*  
 _letra cursiva_  
+**letra negrita**  
+__letra cursiva__
 
 ### para combinar las dos solo es ponerla entre dos asteriscos o guiones bajos
 
-**cursiva y negrita**  
-__cursiva y negrita__
+***cursiva y negrita***  
+___cursiva y negrita___
+
+## Links o enlaces en línea
+
+### para colocar enlaces el texto se debe colocar entre corchetes [] y el enlace entre parentesis ()
+
+[ir a google](http://google.com)
+
+### tambien puedes crear referencia que esten en partes mas abajo de la página
+
+para solucionar incoveniente visita mi [github](github)
+
+[github](https://github.com/jucenaqui)
     
     
     
