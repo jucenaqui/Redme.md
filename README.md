@@ -18,7 +18,7 @@ no se que hacer primero!!!
 
 ## Encabezados
 
-### Los encabezados se colocan por medio de # una por cada nivel que quieras crear
+### Los encabezados se colocan por medio de \# una por cada nivel que quieras crear \#nivel1 \##nivel2 \###nivel3 hasta \######nivel6
 
 # Encabezado 1
 ## Encabezado 2
@@ -29,7 +29,7 @@ no se que hacer primero!!!
 
 ## Citas
 
-### para colocar citas útilizamos el signo > al comienzo del texto
+### para colocar citas útilizamos el signo > al comienzo del texto \>el texto que quieres citar
 
 > Locura es hacer lo mismo una y otra vez esperando obtener resultados diferentes
 
@@ -56,7 +56,7 @@ puedes colocarlas con *, -, +
     * Elemento de lista 2.2
     
  #### ordenadas  
- para ordenadas solo tienes que ponerlas con su respetivo número 1. y tambien puedes anidarlas
+ para ordenadas solo tienes que ponerlas con su respetivo número \1. y tambien puedes anidarlas
  
  1. Elemento de lista 1   
     * Elemento de lista 1.1  
@@ -70,7 +70,7 @@ puedes colocarlas con *, -, +
 
 ## Código de bloque
 
-### para colocar bloques de código solo tienes que encerrarlos entre tres virgulillas ~~~ texto ~~~
+### para colocar bloques de código solo tienes que encerrarlos entre tres virgulillas \~~~ texto ~~~
 
 ~~~
 Todo el texto de codigo que quieras poner va dentro  
@@ -80,7 +80,7 @@ y puedes tener todo el que requieras
 
 ## Énfasis (negritas y cursivas)
 
-### Cursiva va con asterisco o con guíon bajo " *cursiva* o _cursiva_ "
+### Cursiva va con asterisco o con guíon bajo \*cursiva*  \ _cursiva_
 
 *letra cursiva*  
 _letra cursiva_  
@@ -94,33 +94,38 @@ ___cursiva y negrita___
 
 ## Links o enlaces en línea
 
-### para colocar enlaces el texto se debe colocar entre corchetes [] y el enlace entre parentesis ()
+### para colocar enlaces el texto se debe colocar entre corchetes [] y el enlace entre parentesis () \[ir a google](http://google.com)
 
 [ir a google](http://google.com)
 
-### tambien puedes crear referencia que esten en partes mas abajo de la página
+### tambien puedes crear referencia que esten en partes mas abajo de la página \[github](github)
 
 para solucionar incoveniente visita mi [github](github)
 
 [github]: https://github.com/jucenaqui
 
-### para crear links automaticos solo encierralos entre menor y mayor que <>
+### para crear links automaticos solo encierralos entre menor y mayor que <> \<http://google.com>
 
 <http://google.com>
 
 ## Imágenes
 
 ### para colocar imagenes procedemos de igual manera que con los enlaces solo que agregamos al principio un signo de exclamación !,  
-y el enlace sera a la ruta de la imagen
+y el enlace sera a la ruta de la imagen \![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)  
 > [tomado de](https://dillinger.io)
 
-### tambien puedes incluir links mediante referencias
+### tambien puedes incluir links mediante referencias \![nombre de la imagen][img1]
 
 ![nombre de la imagen][img1]
 
 [img1]: https://travis-ci.org/joemccann/dillinger.svg?branch=master
+
+
+## Omitir Markdown
+
+### para omitir el ##markdown solo debes anteponer el \ antes de el texto
 
 
     
