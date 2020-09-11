@@ -67,6 +67,17 @@ puedes colocarlas con *, -, +
     2.3 Elemento de lista 2.3  
     2.4 Elemento de lista 2.4
     
+
+## Código de bloque
+
+## para colocar bloques de código solo tienes que encerrarlos entre tres virgulillas ~~~ texto ~~~
+
+~~~
+Todo el texto de codigo que quieras poner va dentro  
+y puedes tener todo el que requieras  
+~~~
+
+
     
     
     
