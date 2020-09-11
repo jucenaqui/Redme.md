@@ -27,5 +27,13 @@ no se que hacer primero!!!
 ##### Encabezado 5
 ###### Encabezado 6
 
+## Citas
+
+### para colocar citas útilizamos el signo > al comienzo del texto
+
+> Locura es hacer lo mismo una y otra vez esperando obtener resultados diferentes
+
+
+
 
 
